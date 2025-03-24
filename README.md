@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzerud&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzerud&theme=tokyonight&hide_border=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /><br>
 </p>
 
 ---
@@ -33,9 +33,14 @@
 ### 🔧 **Инструменты**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![DOTween](https://img.shields.io/badge/DOTween-FF5733?style=for-the-badge&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
 ### 📱 **Платформы**
@@ -48,7 +53,7 @@
 ![Burst Compiler](https://img.shields.io/badge/Burst%20Compiler-FF5733?style=for-the-badge&logoColor=white)
 ![Jobs System](https://img.shields.io/badge/Jobs%20System-008080?style=for-the-badge&logoColor=white)
 ![Addressables](https://img.shields.io/badge/Addressables-FF5733?style=for-the-badge&logoColor=white)
-
+![DOTween](https://img.shields.io/badge/DOTween-FF5733?style=for-the-badge&logoColor=white)
 
 
 ---
