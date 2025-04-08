@@ -6,11 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Game+Developer;Unity+%7C+C%23;Android+%7C+PC+%7C+WebGL;FearFusion+Games+%7C+AuzaTeam+Inc.">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzerud&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="sticker1.webp" width="350" alt="Zikie the floofy buddy" style="flex-shrink: 0;">
+
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzerud&theme=tokyonight&hide_border=true" alt="Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+  </div>
+</div>
+
+
 
 ---
 
