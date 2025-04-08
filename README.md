@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="sticker1.webp" width="350" alt="Zikie the floofy buddy" style="flex-shrink: 0;">
+  <img src="Sticker1.webp" width="350" alt="Zikie the floofy buddy" style="flex-shrink: 0;">
 
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
