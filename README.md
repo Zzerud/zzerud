@@ -9,12 +9,8 @@
 <div align="center">
   <table>
     <tr>
-      <td style="vertical-align: middle;">
-        <img src="Sticker1.webp" width="1000" alt="Zikie the floofy buddy">
-      </td>
       <td style="padding-left: 20px; vertical-align: middle;">
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px;">
-    <!-- Ваши изображения со статистиками -->
     <img src="https://github-readme-stats.vercel.app/api?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzerud&theme=tokyonight&hide_border=true" alt="Streak Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzerud&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
